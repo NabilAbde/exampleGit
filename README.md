@@ -7,6 +7,7 @@ Ce lab est un exercice du cours "Débuter avec Git et Github" dispensé par Nico
 1. Télécharger et installer Git
 2. Récupérer ce projet en local en téléchargeant le zip et en mettant son contenu dans un répertoire 
 3. Lancer la console :)
+3.1 Se boire un Kfé :D
 
 ## Les bases
 
